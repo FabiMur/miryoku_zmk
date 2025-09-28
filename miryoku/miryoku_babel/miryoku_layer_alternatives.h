@@ -348,10 +348,10 @@ U_NA,              &kp RALT,          &u_to_U_NAV,       &u_to_U_NUM,       U_NA
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp MINUS,         &kp N0,            &kp DOT,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_NUM \
-U_NA,         &kp N7,            &kp N8,            &kp N9,            &kp CARET,         U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
-&kp HASH,    &kp N4,            &kp N5,            &kp N6,            &kp DLLR,          U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
-&kp GRAVE,         &kp N1,            &kp N2,            &kp N3,            &kp BSLH,          U_NA,              &u_to_U_NUM,       &u_to_U_NAV,       &kp RALT,          U_NA,              \
-U_NP,         U_NP,              U_NA,              &kp N0,            U_NA,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+&kp BSLH,   &kp N7,            &kp N8,            &kp N9,            &kp CARET,         U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
+&kp HASH,   &kp N4,            &kp N5,            &kp N6,            &kp DLLR,          U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
+&kp GRAVE,  &kp N1,            &kp N2,            &kp N3,            U_NA,              U_NA,              &u_to_U_NUM,       &u_to_U_NAV,       &kp RALT,          U_NA,              \
+U_NP,       U_NP,              U_NA,              &kp N0,            &kp PIPE,          U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 
 #define MIRYOKU_ALTERNATIVES_SYM_FLIP \
